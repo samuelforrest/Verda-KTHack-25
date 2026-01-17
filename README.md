@@ -1,6 +1,6 @@
 # Verda: Track More, Waste Less
 
-Submission for KTHacks 2025
+Submission for KTHack 2025
 
 **Devpost: [https://devpost.com/software/verda-edo7uq](https://devpost.com/software/verda-edo7uq)**
 
